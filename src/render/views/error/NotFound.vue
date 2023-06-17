@@ -1,9 +1,11 @@
 <script lang="ts" setup>
+
 </script>
 
 <template>
-  <router-view/>
+  <h1>404 Not Found</h1>
 </template>
 
 <style scoped>
+
 </style>
